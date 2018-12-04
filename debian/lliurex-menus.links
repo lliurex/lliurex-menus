@@ -1,0 +1,8 @@
+/usr/share/extra-xdg-menus/lliurex-secundaria.menu  /etc/xdg/menus/applications-merged/lliurex-secundaria.menu 
+/usr/share/extra-xdg-menus/lliurex-administration.menu /etc/xdg/menus/applications-merged/lliurex-administration.menu 
+/usr/share/extra-xdg-menus/lliurex-ciclos.menu  /etc/xdg/menus/applications-merged/lliurex-ciclos.menu 
+/usr/share/extra-xdg-menus/lliurex-educacion-especial.menu  /etc/xdg/menus/applications-merged/lliurex-educacion-especial.menu 
+/usr/share/extra-xdg-menus/lliurex-infantil.menu  /etc/xdg/menus/applications-merged/lliurex-infantil.menu 
+/usr/share/extra-xdg-menus/settings.menu /etc/xdg/menus/applications-merged/settings.menu 
+/usr/share/extra-xdg-menus/ode-creation.menu  /etc/xdg/menus/applications-merged/ode-creation.menu 
+/usr/share/extra-xdg-menus/lliurex-preferences.menu /etc/xdg/menus/applications-merged/lliurex-preferences.menu
