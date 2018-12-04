@@ -1,3 +1,9 @@
+lliurex-menus (0.57) bionic; urgency=medium
+
+  * Initial release for bionic
+
+ -- Juan Ramon Pelegrina <juapesai@hotmailc.com>  Tue, 04 Dec 2018 16:52:08 +0100
+
 lliurex-menus (0.47) xenial; urgency=medium
 
   * Fix translations
