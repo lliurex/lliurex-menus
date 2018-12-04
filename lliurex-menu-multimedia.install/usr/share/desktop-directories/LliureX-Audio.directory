@@ -1,0 +1,15 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Lliurex Audio
+Name[ca]=Edició de so
+Name[es]=Edición de sonido
+Name[ca_ES@valencia]=Edició de so
+Name[ca_ES.UTF-8@valencia]=Edició de so
+Comment=Lliurex Players
+Comment[es]=Aplicaciones de edición de sonido
+Comment[ca]=Aplicacions d'edició de so 
+Comment[ca_ES.UTF-8@valencia]=Edició de so
+Comment[ca_ES@valencia]=Edició de so
+Icon=/usr/share/pixmaps/lliurex-menus/applications-sound-edit.svg
+Type=Directory
+#X-Ubuntu-Gettext-Domain=gnome-menus

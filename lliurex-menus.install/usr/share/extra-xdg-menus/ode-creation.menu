@@ -1,0 +1,23 @@
+<!-- LliureX ODE Creation submenu -->
+<Menu>
+  <Name>ODE Creation</Name>
+  <Menu>
+    <Name>ODE Creation</Name>
+    <Directory>ODE-Creation.directory</Directory>
+    <Include>
+      <And>
+        <Category>ODE-Creation</Category>
+      </And>
+    </Include>
+    <Menu>
+      <Name>LliureX Amic ODE</Name>
+      <Directory>LliureX-Amic-ODE.directory</Directory>
+      <Include>
+        <And>
+          <Category>LliureX-Amic-ODE</Category>
+        </And>
+      </Include>
+    </Menu> <!-- Pictographic Comunicators-->
+  </Menu>
+</Menu>
+<!-- End LliureX ODE Creation-->

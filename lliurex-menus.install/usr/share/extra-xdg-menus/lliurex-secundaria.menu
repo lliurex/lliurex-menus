@@ -1,0 +1,14 @@
+<!-- LliureX Secundaria submenu -->
+<Menu>
+  <Name>LliureX Secundaria</Name>
+  <Menu>
+    <Name>LliureX Secundaria</Name>
+    <Directory>LliureX-Secundaria.directory</Directory>
+    <Include>
+      <And>
+        <Category>LliureX-Secundaria</Category>
+      </And>
+    </Include>  
+  </Menu>
+</Menu>
+<!-- End LliureX Secundaria -->

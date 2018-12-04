@@ -1,0 +1,42 @@
+<!-- LliureX Multimedia Menu -->
+<Menu>
+	<Name>Applications</Name>
+	<!-- LliureX Video Menu -->
+	<Menu>
+		<Name>Lliurex Video</Name>
+		<Directory>LliureX-Video.directory</Directory>
+		<Include>
+			<Category>LliureX-Video</Category>
+		</Include>
+	</Menu>
+	<!-- LliureX Musica Menu -->
+	<Menu>
+		<Name>LliureX Musica</Name>
+		<Directory>LliureX-Musica.directory</Directory>
+		<Include>
+			<Category>LliureX-Musica</Category>
+		</Include>
+		<Menu>
+			<Name>LliureX Players</Name>
+			<Directory>LliureX-Players.directory</Directory>
+			<Include>
+				<Category>LliureX-Players</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>LliureX Audio</Name>
+			<Directory>LliureX-Audio.directory</Directory>
+			<Include>
+				<Category>LliureX-Audio</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Lliurex Mixers</Name>
+			<Directory>LliureX-Mixers.directory</Directory>
+			<Include>
+				<Category>LliureX-Mixers</Category>
+			</Include>
+		</Menu>
+	</Menu>
+</Menu>
+	<!-- End LliureX Multimedia-->

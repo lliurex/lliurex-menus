@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=LliureX Administration
+Name[es]=Administración LliureX
+Name[ca_ES.UTF-8@valencia]=Administració de LliureX
+Name[ca_ES@valencia]=Administració de LliureX
+Name[ca_ES]=Administració de LliureX
+Comment=LliureX Administration
+Comment[es]=Administración de LliureX
+Comment[ca_ES.UTF-8@valencia]=Administració de LliureX
+Comment[ca_ES@valencia]=Administració de LliureX
+Comment[ca_ES]=Administració de LliureX
+Icon=applications-lliurex
+Type=Directory
+Encoding=UTF-8
+NoDisplay=false
+#X-Ubuntu-Gettext-Domain=gnome-menus

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Training Cycles
+Name[es]=Ciclos Formativos
+Name[ca_ES.UTF-8@valencia]=Cicles Formatius
+Name[ca_ES@valencia]=Cicles Formatius
+Icon=ciclos
+Type=Directory
+Encoding=UTF-8
+#X-Ubuntu-Gettext-Domain=gnome-menus

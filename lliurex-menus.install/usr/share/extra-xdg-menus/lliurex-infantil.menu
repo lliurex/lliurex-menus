@@ -1,0 +1,14 @@
+<!-- LliureX Infantil submenu -->
+<Menu>
+  <Name>LliureX Infantil</Name>
+  <Menu>
+    <Name>Lliurex Infantil</Name>
+    <Directory>LliureX-Infantil.directory</Directory>
+    <Include>
+      <And>
+        <Category>LliureX-Infantil</Category>
+      </And>
+    </Include>
+  </Menu>
+</Menu>
+<!-- End LliureX Infantil -->

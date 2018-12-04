@@ -1,0 +1,23 @@
+<!-- LliureX Secundaria submenu -->
+<Menu>
+	<Name>Lliurex Educacion Especial</Name>
+	<Menu>
+		<Name>LliureX Educacion Especial</Name>
+		<Directory>LliureX-Educacion-Especial.directory</Directory>
+		<Include>
+			<And>
+				<Category>LliureX-Educacion-Especial</Category>
+			</And>
+		</Include>
+		<Menu>
+			<Name>Pictographics Comunicators</Name>
+			<Directory>LliureX-SAAC.directory</Directory>
+			<Include>
+				<And>
+					<Category>LliureX-SAAC</Category>
+				</And>
+			</Include>
+		</Menu> <!-- Pictographic Comunicators-->
+	</Menu>
+</Menu>
+<!-- End LliureX Educacion Especial -->

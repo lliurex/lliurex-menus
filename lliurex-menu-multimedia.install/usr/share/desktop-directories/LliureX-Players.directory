@@ -1,0 +1,16 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Lliurex Players
+Name[ca]=Reproductors
+Name[es]=Reproductores
+Name[ca_ES.UTF-8@valencia]=Reproductors
+Name[ca_ES@valencia]=Reproductors
+Comment=Lliurex Players
+Comment[es]=Reproductores
+Comment[ca]=Reproductors 
+Comment[qcv]=Reproductors
+Comment[ca_ES.UTF-8@valencia]=Reproductors
+Comment[ca_ES@valencia]=Reproductors
+Icon=/usr/share/pixmaps/lliurex-menus/applications-players.svg
+Type=Directory
+#X-Ubuntu-Gettext-Domain=gnome-menus

@@ -1,0 +1,14 @@
+<!-- LliureX Administration submenu -->
+<Menu>
+	<Name>LliureX Administration</Name>
+	<Menu>
+		<Name>LliureX Administration</Name>
+		<Directory>LliureX-Administration.directory</Directory>
+		<Include>
+			<And>
+				<Category>LliureX-Administration</Category>
+			</And>
+		</Include>
+	</Menu>
+</Menu>
+<!-- End LliureX Administration-->

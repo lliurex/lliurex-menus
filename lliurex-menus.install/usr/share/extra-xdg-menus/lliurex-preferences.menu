@@ -1,0 +1,14 @@
+<!-- LliureX Preferences submenu -->
+<Menu>
+  <Name>LliureX Preferences</Name>
+  <Menu>
+    <Name>LliureX Preferences</Name>
+    <Directory>LliureX-Preferences.directory</Directory>
+    <Include>
+      <And>
+        <Category>LliureX-Preferences</Category>
+      </And>
+    </Include>
+  </Menu>
+</Menu>
+  <!-- End LliureX Preferences-->

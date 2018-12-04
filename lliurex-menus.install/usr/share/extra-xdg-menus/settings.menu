@@ -1,0 +1,15 @@
+<!-- LliureX ODE Creation submenu -->
+<Menu>
+<Include>
+  <Filename>gnome-control-center.desktop</Filename>
+</Include>
+
+<!-- Separator between menus and gnome-app-install -->
+<Layout>
+  <Merge type="menus"/>
+  <Merge type="files"/>
+  <Separator/>
+  <Filename>gnome-control-center.desktop</Filename>
+</Layout>
+  </Menu>
+  <!-- End LliureX ODE Creation-->

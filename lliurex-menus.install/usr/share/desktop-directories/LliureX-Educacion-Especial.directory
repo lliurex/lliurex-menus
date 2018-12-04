@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Special Education
+Name[es]=Educación Especial
+Name[ca_ES.UTF-8@valencia]=Educació Especial
+Name[ca_ES@valencia]=Educació Especial
+Icon=eespecial
+Type=Directory
+Encoding=UTF-8
+#X-Ubuntu-Gettext-Domain=gnome-menus

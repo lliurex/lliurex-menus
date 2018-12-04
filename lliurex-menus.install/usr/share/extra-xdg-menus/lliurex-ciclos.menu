@@ -1,0 +1,15 @@
+<!-- LliureX Secundaria submenu -->
+<Menu>
+  <Name>LliureX Ciclos</Name>
+  <Menu>
+    <Name>LliureX Ciclos</Name>
+    <Directory>LliureX-Ciclos.directory</Directory>
+    <Include>
+      <And>
+        <Category>LliureX-Ciclos</Category>
+      </And>
+    </Include>
+  </Menu>
+</Menu>
+<!-- End LliureX Ciclos -->
+
