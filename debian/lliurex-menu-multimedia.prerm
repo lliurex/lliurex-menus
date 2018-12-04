@@ -19,13 +19,8 @@ set -e
 PACKAGE_NAME="lliurex-menu-multimedia"
 case "$1" in
     remove|upgrade|deconfigure)
-	echo " [ lliurex-menu-multimedia ] : * Diverting /etc/xdg/menus/gnome-flashback-applications.menu"
-        ORIGINAL_FILE="/etc/xdg/menus/gnome-flashback-applications.menu"
-        if [ -L "$ORIGINAL_FILE" ] ; then
-                rm $ORIGINAL_FILE
-                dpkg-divert --package $PACKAGE_NAME --rename  --remove   $ORIGINAL_FILE
-        fi
-	echo " [ lliurex-menu-multimedia ] : * Finished Diverted file"
+		echo "prerm called with unknown argument \`$1'" >&2
+        exit 0
     ;;
 
     failed-upgrade)

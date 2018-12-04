@@ -19,21 +19,7 @@ set -e
 PACKAGE_NAME="lliurex-menu-multimedia"
 case "$1" in
 	configure)
-		echo " [ lliurex-menu-multimedia ] : * Diverting /etc/xdg/menus/gnome-flashback-applications.menu"
-		ORIGINAL_FILE="/etc/xdg/menus/gnome-flashback-applications.menu"
-                LLIUREX_FILE="/etc/xdg/menus/gnome-flashback-applications.lliurex"
-                NEW_FILE="/etc/xdg/menus/gnome-flashback-applications.diverted"
-                if [ ! -r "$NEW_FILE" ] ; then
-                        dpkg-divert --package $PACKAGE_NAME --rename  --add --divert  $NEW_FILE  $ORIGINAL_FILE
-                fi
-
-                if [ ! -L $ORIGINAL_FILE ] ; then
-                        if [ "$(readlink -f $ORIGINAL_FILE)" != "${LLIUREX_FILE}"  ] ; then
-                                rm -rf $ORIGINAL_FILE || true
-                                ln -fs ${LLIUREX_FILE} $ORIGINAL_FILE
-                        fi
-                fi
-		echo " [ lliurex-menu-multimedia ] : * Finished Diverted file"
+		echo "[ lliurex-menus-multimedia ] : * Nothing to do"
 		;;
 	abort-upgrade|abort-remove|abort-deconfigure)
 		echo "postinst called with argument \`$1'" >&2
