@@ -1,0 +1,14 @@
+<!-- LliureX Computational thinking submenu -->
+<Menu>
+	<Name>LliureX Computational thinking</Name>
+	<Menu>
+		<Name>LliureX Computational thinking</Name>
+		<Directory>LliureX-Computational-Thinking.directory</Directory>
+		<Include>
+			<And>
+				<Category>LliureX-Computational-Thinking</Category>
+			</And>
+		</Include>
+	</Menu>
+</Menu>
+<!-- End LliureX Computational thinking-->
