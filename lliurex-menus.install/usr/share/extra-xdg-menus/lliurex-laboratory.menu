@@ -1,0 +1,14 @@
+<!-- LliureX Laboratory submenu -->
+<Menu>
+	<Name>LliureX Laboratory</Name>
+	<Menu>
+		<Name>LliureX Laboratory</Name>
+		<Directory>LliureX-Laboratory.directory</Directory>
+		<Include>
+			<And>
+				<Category>LliureX-Laboratory</Category>
+			</And>
+		</Include>
+	</Menu>
+</Menu>
+<!-- End LliureX Laboratory-->
