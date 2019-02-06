@@ -1,3 +1,9 @@
+lliurex-menus (0.58) bionic; urgency=medium
+
+  * Added new categories: Laboratory and Computational Thinking
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Wed, 06 Feb 2019 08:36:34 +0100
+
 lliurex-menus (0.57) bionic; urgency=medium
 
   * Initial release for bionic
