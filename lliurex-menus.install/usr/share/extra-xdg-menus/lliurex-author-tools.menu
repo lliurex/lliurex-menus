@@ -1,0 +1,14 @@
+<!-- LliureX Author Tools submenu -->
+<Menu>
+  <Name>Author Tools</Name>
+  <Menu>
+    <Name>Author Tools</Name>
+    <Directory>LliureX-Author-Tools.directory</Directory>
+    <Include>
+      <And>
+        <Category>LliureX-Author-Tools</Category>
+      </And>
+    </Include>
+    </Menu>
+</Menu>
+<!-- End LliureX Authos Tools-->
