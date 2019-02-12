@@ -20,7 +20,7 @@ set -e
 case "$1" in
 	install | upgrade)
 		
-		LLIUREX_MENUS_OLD_FILES="/etc/xdg/menus/applications-merged/lliurex-musica.menu /etc/xdg/menus/applications-merged/lliurex-secundaria.menu /etc/xdg/menus/applications-merged/lliurex-administration.menu /etc/xdg/menus/applications-merged/lliurex-ciclos.menu /etc/xdg/menus/applications-merged/lliurex-educacion-especial.menu /etc/xdg/menus/applications-merged/lliurex-infantil.menu /etc/xdg/menus/applications-merged/settings.menu /etc/xdg/menus/applications-merged/ode-creation.menu /etc/xdg/menus/applications-merged/lliurex-preferences.menu /etc/xdg/menus/applications-merged/lliurex-laboratory.menu /etc/xdg/menus/applications-merged/lliurex-computational-thinking"
+		LLIUREX_MENUS_OLD_FILES="/etc/xdg/menus/applications-merged/lliurex-musica.menu /etc/xdg/menus/applications-merged/lliurex-secundaria.menu /etc/xdg/menus/applications-merged/lliurex-administration.menu /etc/xdg/menus/applications-merged/lliurex-ciclos.menu /etc/xdg/menus/applications-merged/lliurex-educacion-especial.menu /etc/xdg/menus/applications-merged/lliurex-infantil.menu /etc/xdg/menus/applications-merged/settings.menu /etc/xdg/menus/applications-merged/lliurex-author-tools.menu /etc/xdg/menus/applications-merged/lliurex-preferences.menu /etc/xdg/menus/applications-merged/lliurex-laboratory.menu /etc/xdg/menus/applications-merged/lliurex-computational-thinking"
 
 		for old_f in ${LLIUREX_MENUS_OLD_FILES}; do 
 			

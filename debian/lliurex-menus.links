@@ -4,7 +4,7 @@
 /usr/share/extra-xdg-menus/lliurex-educacion-especial.menu  /etc/xdg/menus/applications-merged/lliurex-educacion-especial.menu 
 /usr/share/extra-xdg-menus/lliurex-infantil.menu  /etc/xdg/menus/applications-merged/lliurex-infantil.menu 
 /usr/share/extra-xdg-menus/settings.menu /etc/xdg/menus/applications-merged/settings.menu 
-/usr/share/extra-xdg-menus/ode-creation.menu  /etc/xdg/menus/applications-merged/ode-creation.menu 
+/usr/share/extra-xdg-menus/lliurex-author-tools.menu  /etc/xdg/menus/applications-merged/lliurex-author-tools.menu 
 /usr/share/extra-xdg-menus/lliurex-preferences.menu /etc/xdg/menus/applications-merged/lliurex-preferences.menu
 /usr/share/extra-xdg-menus/lliurex-laboratory.menu /etc/xdg/menus/applications-merged/lliurex-laboratory.menu
 /usr/share/extra-xdg-menus/lliurex-computational-thinking.menu /etc/xdg/menus/applications-merged/lliurex-computational-thinking.menu
