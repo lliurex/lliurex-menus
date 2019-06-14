@@ -3,7 +3,9 @@ Name=Laboratory
 Name[es]=Laboratorio
 Name[ca_ES.UTF-8@valencia]=Laboratori
 Name[ca_ES@valencia]=Laboratori
+Name[ca_ES]=Laboratori
 Icon=applications-science
 Type=Directory
 Encoding=UTF-8
 #X-Ubuntu-Gettext-Domain=gnome-menus
+
