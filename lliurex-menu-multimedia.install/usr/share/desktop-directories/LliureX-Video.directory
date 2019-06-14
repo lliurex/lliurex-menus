@@ -4,12 +4,15 @@ Name=Lliurex Video
 Name[ca]=Edició de vídeo
 Name[es]=Edición de vídeo
 Name[ca_ES.UTF-8@valencia]=Edició de vídeo
+Name[ca_ES]=Edició de vídeo
 Name[ca_ES@valencia]=Edició de vídeo
 Comment=Lliurex video
 Comment[es]=Aplicaciones para editar vídeo.
 Comment[ca]=Aplicacions per a editar vídeo.
 Comment[ca_ES.UTF-8@valencia]=Edició de vídeo
+Comment[ca_ES]=Edició de vídeo
 Comment[ca_ES@valencia]=Edició de vídeo
 Icon=/usr/share/pixmaps/lliurex-menus/applications-video.svg
 Type=Directory
 #X-Ubuntu-Gettext-Domain=gnome-menus
+
