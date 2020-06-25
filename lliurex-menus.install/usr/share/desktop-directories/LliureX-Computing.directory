@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Computing
+Name[es]=Informática
+Name[ca_ES.UTF-8@valencia]=Informàtica
+Name[ca_ES@valencia]=Informàtica
+Name[ca_ES]=Informàtica
+Icon=applications-development.svg
+Type=Directory
+Encoding=UTF-8
+#X-Ubuntu-Gettext-Domain=gnome-menus
