@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Administrative
+Name[es]=Administrativo
+Name[ca_ES.UTF-8@valencia]=Administratiu
+Name[ca_ES@valencia]=Administratiu
+Name[ca_ES]=Administratiu
+Icon=applications-office
+Type=Directory
+Encoding=UTF-8
+#X-Ubuntu-Gettext-Domain=gnome-menus

@@ -1,0 +1,19 @@
+<!-- LliureX Computing submenu -->
+<Menu>
+	<Name>Applications</Name>
+	<Directory>kde-main.directory</Directory>
+		<Menu>
+			<Name>Education</Name>
+			<Directory>kf5-education.directory</Directory>
+				<Menu>
+					<Name>LliureX Computing</Name>
+					<Directory>LliureX-Computing.directory</Directory>
+					<Include>
+						<And>
+							<Category>LliureX-Computing</Category>
+						</And>
+					</Include>
+				</Menu>
+		<Menu>	
+</Menu>
+<!-- End LliureX Computing -->

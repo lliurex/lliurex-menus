@@ -1,0 +1,19 @@
+<!-- LliureX Administrative submenu -->
+<Menu>
+	<Name>Applications</Name>
+	<Directory>kde-main.directory</Directory>
+		<Menu>
+			<Name>Education</Name>
+			<Directory>kf5-education.directory</Directory>
+				<Menu>
+					<Name>LliureX Administrative</Name>
+					<Directory>LliureX-Administrative.directory</Directory>
+					<Include>
+						<And>
+							<Category>LliureX-Administrative</Category>
+						</And>
+					</Include>
+				</Menu>
+		<Menu>	
+</Menu>
+<!-- End LliureX Administrative -->

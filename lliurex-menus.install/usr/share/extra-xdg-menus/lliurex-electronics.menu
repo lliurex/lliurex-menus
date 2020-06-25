@@ -1,0 +1,19 @@
+<!-- LliureX Electronics submenu -->
+<Menu>
+	<Name>Applications</Name>
+	<Directory>kde-main.directory</Directory>
+		<Menu>
+			<Name>Education</Name>
+			<Directory>kf5-education.directory</Directory>
+				<Menu>
+					<Name>LliureX Electronics</Name>
+					<Directory>LliureX-Electronics.directory</Directory>
+					<Include>
+						<And>
+							<Category>LliureX-Electronics</Category>
+						</And>
+					</Include>
+				</Menu>
+		<Menu>		
+</Menu>
+<!-- End LliureX Electronics -->
