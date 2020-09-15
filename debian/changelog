@@ -1,3 +1,9 @@
+lliurex-menus (0.71) focal; urgency=medium
+
+  * Initial release for focal
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Tue, 15 Sep 2020 16:57:10 +0200
+
 lliurex-menus (0.61) bionic; urgency=medium
 
   * Added new categories inside Educational menu: Administrative, Computing and Electronics
