@@ -1,0 +1,289 @@
+lliurex-menus (0.61) bionic; urgency=medium
+
+  * Added new categories inside Educational menu: Administrative, Computing and Electronics
+  
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Thu, 25 Jun 2020 12:45:06 +0200
+
+lliurex-menus (0.60) bionic; urgency=medium
+
+  * Added translations
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Fri, 14 Jun 2019 08:23:23 +0200
+
+lliurex-menus (0.59) bionic; urgency=medium
+
+  * Added new category: Creation of Digital Resources
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Tue, 12 Feb 2019 09:31:15 +0100
+
+lliurex-menus (0.58) bionic; urgency=medium
+
+  * Added new categories: Laboratory and Computational Thinking
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Wed, 06 Feb 2019 08:36:34 +0100
+
+lliurex-menus (0.57) bionic; urgency=medium
+
+  * Initial release for bionic
+
+ -- Juan Ramon Pelegrina <juapesai@hotmailc.com>  Tue, 04 Dec 2018 16:52:08 +0100
+
+lliurex-menus (0.47) xenial; urgency=medium
+
+  * Fix translations
+  * New categorization of education menus
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Mon, 19 Sep 2016 09:53:53 +0200
+
+lliurex-menus (0.46) xenial; urgency=medium
+
+  * Dummy updagrade
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Thu, 31 Mar 2016 13:25:32 +0200
+
+lliurex-menus (0.45) xenial; urgency=medium
+
+  * First release to xenial
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Thu, 31 Mar 2016 13:05:31 +0200
+
+lliurex-menus (0.42) trusty; urgency=high
+
+  * Added accent to Primaria
+
+ -- joamuran <joamuran@gmail>  Mon, 07 Mar 2016 12:33:16 +0100
+
+lliurex-menus (0.41) trusty; urgency=high
+
+  * Lliurex Music Menu updated
+
+ -- Daniel Duran Vecino <daduve@gmail.com>  Fri, 29 May 2015 12:26:57 +0200
+
+lliurex-menus (0.40) trusty; urgency=high
+
+  * Fixed desktop for LliureX Administration 
+
+ -- Angel Berlanas Vicente <angel.berlanas@gmail.com>  Thu, 16 Apr 2015 12:12:58 +0200
+
+lliurex-menus (0.39) trusty; urgency=high
+
+  * First release with two packages
+
+ -- Daniel Duran Vecino <daduve@gmail.com>  Thu, 02 Apr 2015 09:23:06 +0200
+
+lliurex-menus (0.38) trusty; urgency=high
+
+  * Add new distribution for Music Flavour
+
+ -- Daniel Duran Vecino <daduve@gmail.com>  Wed, 01 Apr 2015 11:59:47 +0200
+
+lliurex-menus (0.37) trusty; urgency=high
+
+  * Added preinstall  to solve the upgrade problem
+
+ -- Angel Berlanas Vicente <angel.berlanas@gmail.com>  Fri, 30 Jan 2015 11:50:37 +0100
+
+lliurex-menus (0.36) trusty; urgency=medium
+
+  * Updated lliurex-menus with postinstall 
+
+ -- Angel Berlanas Vicente <angel.berlanas@gmail.com>  Fri, 30 Jan 2015 11:15:05 +0100
+
+lliurex-menus (0.35) trusty; urgency=high
+
+  * Updated menus for Trusty
+
+ -- Angel Berlanas Vicente <angel.berlanas@gmail.com>  Thu, 29 Jan 2015 08:43:45 +0100
+
+lliurex-menus (0.33) precise; urgency=high
+
+  * Updated menus translations
+    Added [ca_ES] Translations for all menu entries 
+
+ -- Angel Berlanas Vicente <angel.berlanas@gmail.com>  Wed, 04 Sep 2013 08:40:31 +0200
+
+lliurex-menus (0.32) precise; urgency=low
+
+  * Updated menus description
+
+ -- Angel Berlanas Vicente <angel.berlanas@gmail.com>  Mon, 20 May 2013 09:50:49 +0200
+
+lliurex-menus (0.31) precise; urgency=low
+
+  * First version for precise 
+
+ -- Angel Berlanas Vicente <angel.berlanas@gmail.com>  Mon, 29 Oct 2012 11:06:25 +0100
+
+lliurex-menus (0.28) unstable; urgency=low
+
+  [ Francisco Antonino Daviu ]
+  * Launched for Nemo
+
+ -- Francisco Antonino Daviu <antonino_fra@gva.es>  Fri, 27 Jan 2012 09:05:46 +0100
+
+lliurex-menus (0.27) lucid; urgency=low
+
+  * Ready for nemo ... again 
+
+ -- Angel Berlanas Vicente <lliurex_devel2@edu.gva.es>  Thu, 26 Jan 2012 14:37:44 +0100
+
+lliurex-menus (0.26) unstable; urgency=low
+
+  * Ready for nemo
+
+lliurex-menus (0.25) unstable; urgency=low
+
+  * Updated music menus
+
+ -- Enrique Medina Gremaldos <lliurex_devel4@edu.gva.es>  Fri, 09 Sep 2011 11:53:13 +0200
+
+lliurex-menus (0.24) unstable; urgency=low
+
+  * Modified some icons path.
+
+ -- jose <jose@gva.es>  Wed, 29 Jun 2011 10:29:04 +0200
+
+lliurex-menus (0.23) unstable; urgency=low
+
+  * Modified directories.
+
+ -- jose <jose@gva.es>  Mon, 06 Jun 2011 13:23:36 +0200
+
+lliurex-menus (0.22) unstable; urgency=low
+
+  * Modified Menus for primaria.
+
+ -- jose <jose@gva.es>  Mon, 06 Jun 2011 10:08:38 +0200
+
+lliurex-menus (0.21) unstable; urgency=low
+
+  [ José A. Múrcia ]
+  * Added new Categories for LliureX Amic-ODE Creation.
+
+  [ jose ]
+  * .i
+
+ -- jose <jose@gva.es>  Mon, 06 Jun 2011 10:08:35 +0200
+
+lliurex-menus (0.20) unstable; urgency=low
+
+  * Fixed categories icon
+
+ -- Angel Berlanas Vicente <lliurex_devel2@edu.gva.es>  Wed, 18 May 2011 11:40:11 +0200
+
+lliurex-menus (0.18) lucid; urgency=low
+
+  * Added Secundaria y infantil-primaria submenus
+
+ -- Angel Berlanas Vicente <lliurex_devel2@edu.gva.es>  Wed, 18 May 2011 11:39:29 +0200
+
+lliurex-menus (0.17) lucid; urgency=low
+
+  * Reborn lliurex-infantil menu 
+
+ -- Angel Berlanas Vicente <lliurex_devel2@edu.gva.es>  Wed, 18 May 2011 11:30:28 +0200
+
+lliurex-menus (0.16) unstable; urgency=low
+
+  * Updated icon names
+
+ -- Enrique Medina Gremaldos <lliurex_devel4@edu.gva.es>  Fri, 29 Oct 2010 14:15:02 +0200
+
+lliurex-menus (0.15) unstable; urgency=low
+
+  * Fixed icon on lliurex-mixers 
+
+ -- Alfons Lloret Sananton <lliurex_devel5@edu.gva.es>  Mon, 18 Oct 2010 13:53:18 +0200
+
+lliurex-menus (0.14) unstable; urgency=low
+
+  * Fixed ODE
+
+ -- Alfons Lloret Sananton <lliurex_devel5@edu.gva.es>  Fri, 18 Jun 2010 13:58:15 +0200
+
+lliurex-menus (0.13) unstable; urgency=low
+
+  * added other submenu and categories in  lliurex music
+
+ -- Alfons Lloret Sananton <lliurex_devel5@edu.gva.es>  Wed, 16 Jun 2010 13:03:23 +0200
+
+lliurex-menus (0.12) unstable; urgency=low
+
+  * added submenus and categories to lliurex music
+
+ -- Alfons Lloret Sananton <lliurex_devel5@edu.gva.es>  Tue, 08 Jun 2010 12:07:39 +0200
+
+lliurex-menus (0.11) unstable; urgency=low
+
+  * modified category and name menu of lliurex musica
+
+ -- Alfons Lloret Sananton <lliurex_devel5@edu.gva.es>  Mon, 07 Jun 2010 17:58:26 +0200
+
+lliurex-menus (0.10) unstable; urgency=low
+
+  * added menus of lliurex music
+  * conflicts with lliurex-music-menu  package. 
+
+ -- Alfons Lloret Sananton <lliurex_devel5@edu.gva.es>  Mon, 07 Jun 2010 17:52:16 +0200
+
+lliurex-menus (0.9) unstable; urgency=low
+
+  * First version from Leia
+
+ -- Raul Rodrigo Segura <lliurex_devel3@edu.gva.es>  Wed, 10 Mar 2010 10:53:14 +0100
+
+lliurex-menus (0.8) unstable; urgency=low
+
+  * Fixed some released
+
+ -- Angel Berlanas Vicente <lliurex_devel2@edu.gva.es>  Thu, 04 Feb 2010 08:18:02 +0100
+
+lliurex-menus (0.7) unstable; urgency=low
+
+  * New Release
+
+ -- Angel Berlanas Vicente <lliurex_devel2@edu.gva.es>  Thu, 04 Feb 2010 08:13:53 +0100
+
+lliurex-menus (0.6) unstable; urgency=low
+
+  * New Release to testing pools
+
+ -- Angel Berlanas Vicente <lliurex_devel2@edu.gva.es>  Thu, 03 Dec 2009 16:25:33 +0100
+
+lliurex-menus (0.5) unstable; urgency=low
+
+  * Updated to solve a little mind trick
+
+ -- Angel Berlanas Vicente <lliurex_devel2@edu.gva.es>  Thu, 03 Dec 2009 16:15:41 +0100
+
+lliurex-menus (0.4) unstable; urgency=low
+
+  * First version for Kripton.
+  * Added metapackage dependence with lliurex-menus.
+
+ -- Angel Berlanas Vicente <lliurex_devel2@edu.gva.es>  Thu, 03 Dec 2009 16:13:50 +0100
+
+lliurex-menus (0.3.1) unstable; urgency=low
+
+  * Ode-Creation menu added
+
+ -- Angel Berlanas Vicente <aberlanas.gva@gmail.com>  Thu, 04 Dec 2008 14:09:14 +0100
+
+lliurex-menus (0.3) unstable; urgency=low
+
+  * New Version for Indy Release
+  * Uploaders Fixed
+
+ -- Angel Berlanas Vicente <aberlanas.gva@gmail.com>  Thu, 04 Dec 2008 14:06:16 +0100
+
+lliurex-menus (0.2) unstable; urgency=low
+
+  * Added qcv translations
+
+ -- Miguel Gea Milvaques <gea_mig@gva.es>  Mon, 13 Oct 2008 11:28:24 +0200
+
+lliurex-menus (0.1) unstable; urgency=low
+
+  * Initial release. 
+ 
+ -- Angel Berlanas Vicente <aberlanas.gva@gmail.com>  Tue, 07 Oct 2008 13:20:45 +0200

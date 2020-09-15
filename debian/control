@@ -1,0 +1,23 @@
+Source: lliurex-menus
+Section: utils
+Priority: optional
+Maintainer: Equipo LliureX <lliurex@gva.es>
+Build-Depends: debhelper (>= 10), cdbs
+Standards-Version: 4.1.2
+
+Package: lliurex-menus
+Architecture: all
+Conflicts: lliurex-music-menu
+Depends: xdg-utils,${misc:Depends}
+Description: Extra Apps and Shortcuts for LliureX
+ lliurex-apps-infantil provides a collection of 
+ simple apps to make more easy the LliureX desktop
+
+Package: lliurex-menu-multimedia
+Architecture: all
+Conflicts: lliurex-menus (<< 0.39)
+Depends: xdg-utils,${misc:Depends}, lliurex-menus
+Description: Extra Apps and Shortcuts for LliureX Multimedia
+ This package provides lliurex-multimedia menu 
+ only on correct flavour.
+
