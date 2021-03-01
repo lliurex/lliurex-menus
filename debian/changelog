@@ -1,3 +1,9 @@
+lliurex-menus (0.62) bionic; urgency=medium
+
+  * Fixed some menus
+  
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Mon, 01 Mar 2021 11:55:52 +0100
+
 lliurex-menus (0.61) bionic; urgency=medium
 
   * Added new categories inside Educational menu: Administrative, Computing and Electronics
