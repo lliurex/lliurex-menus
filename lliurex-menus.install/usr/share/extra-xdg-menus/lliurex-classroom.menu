@@ -1,0 +1,18 @@
+<Menu>
+    <Menu>
+	<Name>Utilities</Name>
+	<Layout>
+		<Menuname>Classroom Utils</Menuname>
+		<Merge type="all"/>
+	</Layout>
+	<Menu>
+                <Name>Classroom Utils</Name>
+                <Directory>LliureX-Util-Classroom.directory</Directory>
+                <Include>
+                        <And>
+                                <Category>Classroom</Category>
+                        </And>
+                </Include>
+        </Menu>
+    </Menu>
+</Menu>
