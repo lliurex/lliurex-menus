@@ -1,0 +1,16 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=LliureX Musica
+Name=Lliurex Music
+Name[ca]=Lliurex Música
+Name[es]=Lliurex Música
+Name[ca_ES.UTF-8@valencia]=Lliurex Música
+Name[ca_ES@valencia]=Lliurex Música
+Comment=Apps Lliurex Music
+Comment[es]=Menu de aplicaciones de Lliurex Música
+Comment[ca]=Menu d'aplicacions de Lliurex Música
+Comment[ca_ES.UTF-8@valencia]=Lliurex Música
+Comment[ca_ES@valencia]=Lliurex Música
+Icon=/usr/share/pixmaps/lliurex-menus/musica.svg
+Type=Directory
+#X-Ubuntu-Gettext-Domain=gnome-menus
