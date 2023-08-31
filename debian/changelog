@@ -1,3 +1,9 @@
+lliurex-menus (0.83.1) jammy; urgency=medium
+
+  * Initial release for Jammy
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Thu, 31 Aug 2023 08:38:56 +0200
+
 lliurex-menus (0.73.1) focal; urgency=medium
 
   * Fixed icon for some categories
